@@ -20,4 +20,4 @@ https://github.com/mwittrien/BetterDiscordAddons/blob/1108bc6946a17344c0418baed0
 
 
 
-![theme](https://www.derhos.es/themes/galaxxy/basebackground.png)
+![theme](https://www.derhos.es/themes/galaxy/basebackground.png)
